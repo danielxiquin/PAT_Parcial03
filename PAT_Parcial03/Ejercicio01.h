@@ -1,6 +1,9 @@
 #pragma once
 
 #include "Node.h"
+#include <queue>
+
+using namespace std;
 
 class Ejercicio01
 {
